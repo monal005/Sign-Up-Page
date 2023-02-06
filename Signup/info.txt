@@ -1,0 +1,5 @@
+array sort
+factorial of a number
+array zigzag
+array no pair(1 0  1 1  1 2  1 3 ----88 89 )
+map, reduce, filter, foreach 

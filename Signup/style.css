@@ -1,0 +1,33 @@
+
+#text1{
+    
+    height: auto;background-color:rgba(76, 27, 212, 0.827);
+    width: 40%;
+    height: 100%;
+    
+}
+input{
+    width:100%   ;
+    
+}
+.ft1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around   ;
+    gap: 30px;
+    background-color:  rgba(101, 51, 238, 0.87);
+    padding-top: 15px;
+    margin-top:36px;
+    color: #ffff;
+    
+
+  }
+
+  .step{
+    display: none;
+  }
+
+  .step.active{
+    display: block;
+  } 
